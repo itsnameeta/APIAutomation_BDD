@@ -6,7 +6,7 @@ Cucumber can be defined as a testing framework, that serves as a tool to write t
 
 Testing is done for [Restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html).
 
-### **Test framework**
+## **Test framework**
 
 1. It generates Extent report with all the step details.  
 2. Generates execution logs, with detailed request and response details.
